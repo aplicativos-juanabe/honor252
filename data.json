@@ -235,7 +235,7 @@
                     "students": [
                         {
                             "name": "CASTRO FERNANDEZ JEANPAUL",
-                            "photo": "imG/CASTRO_FERNANDEZ_JEANPAUL_SEBASTIAN.jpg",
+                            "photo": "img/CASTRO_FERNANDEZ_JEANPAUL_SEBASTIAN.jpg",
                             "position": 1
                         },
                         {
@@ -245,7 +245,7 @@
                         },
                         {
                             "name": "ATENCIA BERRÍO RODOLFO JOSÉ",
-                            "photo": "img/nene1.png",
+                            "photo": "img/NENE1.png",
                             "position": 3
                         }
                     ]
@@ -255,7 +255,7 @@
                     "students": [
                         {
                             "name": "GOMEZ MEZA KAREN YULIETH",
-                            "photo": "img/nena1.png",
+                            "photo": "img/NENA1.png",
                             "position": 1
                         },
                         {
@@ -405,7 +405,7 @@
                     "students": [
                         {
                             "name": "ARRIETA YANCE LUIS DAVID",
-                            "photo": "img/nene2.png",
+                            "photo": "img/NENE2.png",
                             "position": 1
                         },
                         {
