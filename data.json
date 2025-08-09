@@ -1,0 +1,511 @@
+{
+    "institution": "JUANA ARIAS DE BENAVIDES",
+    "period": "Jornada Tarde - Segundo Periodo - Año 2025",
+    "grades": [
+        {
+            "grade": "3°",
+            "groups": [
+                {
+                    "group": "Tercero Uno",
+                    "students": [
+                        {
+                            "name": "OCHOA GONZÁLEZ OSCAR DAVID",
+                            "photo": "img/OCHOA_GONZALEZ_OSCAR_DAVID.jpg",
+                            "position": 1
+                        },
+                        {
+                            "name": "GONZALEZ OSPINO ESTEBAN",
+                            "photo": "img/GONZALEZ_OSPINO_ESTEBAN.jpg",
+                            "position": 2
+                        },
+                        {
+                            "name": "CALDERON SEQUEIRA JORGE ANDRES",
+                            "photo": "img/CALDERON_SEQUEIRA_JORGE_ANDRES.jpg",
+                            "position": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "grade": "4°",
+            "groups": [
+                {
+                    "group": "Cuarto Uno",
+                    "students": [
+                        {
+                            "name": "BUELVAS RAMOS SAMUEL JAVITH",
+                            "photo": "img/BUELVAS_RAMOS_SAMUEL_JAVITH.jpg",
+                            "position": 1
+                        },
+                        {
+                            "name": "MONTERRROSA RODRIGUEZ SHARID",
+                            "photo": "img/MONTERRROSA_RODRIGUEZ_SHARID_JULIANA.jpg",
+                            "position": 2
+                        },
+                        {
+                            "name": "MELENDEZ LUNA LAILA ZOEY",
+                            "photo": "img/MELENDEZ_LUNA_LAILA_ZOEY.jpg",
+                            "position": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "grade": "5°",
+            "groups": [
+                {
+                    "group": "Quinto Uno",
+                    "students": [
+                        {
+                            "name": "MARTINEZ MEJÍA THALIANA",
+                            "photo": "img/MARTINEZ_MEJIA_THALIANA.jpg",
+                            "position": 1
+                        },
+                        {
+                            "name": "LEDESMA ACOSTA ANDREA CAROLINA",
+                            "photo": "img/LEDESMA_ACOSTA_ANDREA_CAROLINA.jpg",
+                            "position": 2
+                        },
+                        {
+                            "name": "BERNAL BELEÑO CRISTAL",
+                            "photo": "img/BERNAL_BELEÑO_CRISTAL.jpg",
+                            "position": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "grade": "6°",
+            "groups": [
+                {
+                    "group": "Sexto Uno",
+                    "students": [
+                        {
+                            "name": "CARRILLO ATENCIA ISAAC DAVID",
+                            "photo": "img/CARRILLO_ATENCIA_ISAAC_DAVID.jpg",
+                            "position": 1
+                        },
+                        {
+                            "name": "BORJAS OLIVERO LEILIS PATRICIA",
+                            "photo": "img/BORJAS_OLIVERO_LEILIS_PATRICIA.jpg",
+                            "position": 2
+                        },
+                        {
+                            "name": "GIRALDO DÍAZ BLANCA LUZ",
+                            "photo": "img/GIRALDO_DIAZ_BLANCA_LUZ.jpg",
+                            "position": 3
+                        }
+                    ]
+                },
+                {
+                    "group": "Sexto Dos",
+                    "students": [
+                        {
+                            "name": "VÁSQUEZ FERNÁNDEZ YISELA MARÍA",
+                            "photo": "img/VASQUEZ_FERNANDEZ_YISELA_MARIA.jpg",
+                            "position": 1
+                        },
+                        {
+                            "name": "MENDOZA RADA ADRIANA MICHEL",
+                            "photo": "img/MENDOZA_RADA_ADRIANA_MICHEL.jpg",
+                            "position": 2
+                        },
+                        {
+                            "name": "JARABA MEZA GABRIELA SOFÍA",
+                            "photo": "img/JARABA_MEZA_GABRIELA_SOFIA.jpg",
+                            "position": 3
+                        }
+                    ]
+                },
+                {
+                    "group": "Sexto Tres",
+                    "students": [
+                        {
+                            "name": "TIRADO ROJANO MARÍA TERESA",
+                            "photo": "img/TIRADO_ROJANO_MARIA_TERESA.jpg",
+                            "position": 1
+                        },
+                        {
+                            "name": "GUERRERO MARTÍNEZ EVER YAIR",
+                            "photo": "img/GUERRERO_MARTINEZ_EVER_YAIR.jpg",
+                            "position": 2
+                        },
+                        {
+                            "name": "LEIVA BELLO HUMBERTO JOSÉ",
+                            "photo": "img/LEIVA_BELLO_HUMBERTO_JOSE.jpg",
+                            "position": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "grade": "7°",
+            "groups": [
+                {
+                    "group": "Séptimo Uno",
+                    "students": [
+                        {
+                            "name": "ANGULO ARAGÓN LINDA LUCIANA",
+                            "photo": "img/ANGULO_ARAGON_LINDA_LUCIANA.jpg",
+                            "position": 1
+                        },
+                        {
+                            "name": "REYES DE ANGEL VALERY DAYANA",
+                            "photo": "img/REYES_DE_ANGEL_VALERY_DAYANA.jpg",
+                            "position": 2
+                        },
+                        {
+                            "name": "SALAZAR CUDRIZ SHARAY FERNANDA",
+                            "photo": "img/SALAZAR_CUDRIZ_SHARAY_FERNANDA.jpg",
+                            "position": 3
+                        }
+                    ]
+                },
+                {
+                    "group": "Séptimo Dos",
+                    "students": [
+                        {
+                            "name": "OSORIO ACOSTA ANA MARGARITA",
+                            "photo": "img/OSORIO_ACOSTA_ANA_MARGARITA.jpg",
+                            "position": 1
+                        },
+                        {
+                            "name": "COLINA HERRERA MICAELA",
+                            "photo": "img/COLINA_HERRERA_MICAELA.jpg",
+                            "position": 2
+                        },
+                        {
+                            "name": "MEZA NAVARRO ANDRES STIVEN",
+                            "photo": "img/MEZA_NAVARRO_ANDRES_STIVEN.jpg",
+                            "position": 3
+                        }
+                    ]
+                },
+                {
+                    "group": "Séptimo Tres",
+                    "students": [
+                        {
+                            "name": "ARIAS SIERRA DANNA ALEJANDRA",
+                            "photo": "img/ARIAS_SIERRA_DANNA_ALEJANDRA.jpg",
+                            "position": 1
+                        },
+                        {
+                            "name": "BARRETO CAREY LIZMARI",
+                            "photo": "img/BARRETO_CAREY_LIZMARI.jpg",
+                            "position": 2
+                        },
+                        {
+                            "name": "DÍAZ ALFARO HANNY DANIELA",
+                            "photo": "img/DIAZ_ALFARO_HANNY_DANIELA.jpg",
+                            "position": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "grade": "8°",
+            "groups": [
+                {
+                    "group": "Octavo Uno",
+                    "students": [
+                        {
+                            "name": "BLANCO VERA MARIA ANGEL",
+                            "photo": "img/BLANCO_VERA_MARIA_ANGEL.jpg",
+                            "position": 1
+                        },
+                        {
+                            "name": "CUETTO CORONADO VALERIE SOPHÍA",
+                            "photo": "img/CUETTO_CORONADO_VALERIE_SOPHIA.jpg",
+                            "position": 2
+                        },
+                        {
+                            "name": "ALVARADO RAMOS JUAN ANDRES",
+                            "photo": "img/ALVARADO_RAMOS_JUAN_ANDRES.jpg",
+                            "position": 3
+                        }
+                    ]
+                },
+                {
+                    "group": "Octavo Dos",
+                    "students": [
+                        {
+                            "name": "CASTRO FERNANDEZ JEANPAUL",
+                            "photo": "imG/CASTRO_FERNANDEZ_JEANPAUL_SEBASTIAN.jpg",
+                            "position": 1
+                        },
+                        {
+                            "name": "COLÓN GÓMEZ YOINER DE JESÚS",
+                            "photo": "img/COLON_GOMEZ_JOINER_DE_JESUS.jpg",
+                            "position": 2
+                        },
+                        {
+                            "name": "ATENCIA BERRÍO RODOLFO JOSÉ",
+                            "photo": "img/nene1.png",
+                            "position": 3
+                        }
+                    ]
+                },
+                {
+                    "group": "Octavo Tres",
+                    "students": [
+                        {
+                            "name": "GOMEZ MEZA KAREN YULIETH",
+                            "photo": "img/nena1.png",
+                            "position": 1
+                        },
+                        {
+                            "name": "ROMERO ARRIETA FRANCISCO JAVIER",
+                            "photo": "img/ROMERO_ARRIETA_FRANCISCO_JAVIER.jpg",
+                            "position": 2
+                        },
+                        {
+                            "name": "TORRES BELTRÁN THALIANA SOFÍA",
+                            "photo": "img/TORRES_BELTRAN_THALIANA_SOFIA.jpg",
+                            "position": 3
+                        }
+                    ]
+                },
+                {
+                    "group": "Octavo Cuatro",
+                    "students": [
+                        {
+                            "name": "TOVAR LIZCANO LAURA CRISTINA",
+                            "photo": "img/TOVAR_LIZCANO_LAURA_CRISTINA.jpg",
+                            "position": 1
+                        },
+                        {
+                            "name": "MENDOZA TORRES KERLATH JOHANA",
+                            "photo": "img/MENDOZA_TORRES_KERLATH_JOHANA.jpg",
+                            "position": 2
+                        },
+                        {
+                            "name": "JARABA BRICEÑO XILENA ZARAY",
+                            "photo": "img/JARABA_BRICEÑO_XILENA_ZARAY.jpg",
+                            "position": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "grade": "9°",
+            "groups": [
+                {
+                    "group": "Noveno Uno",
+                    "students": [
+                        {
+                            "name": "MARTÍNEZ ORTIZ MAYLIN",
+                            "photo": "img/MARTINEZ_ORTIZ_MAYLIN_CHIQUINQUIRA.jpg",
+                            "position": 1
+                        },
+                        {
+                            "name": "TURIZO ALTAMIRANDA ELIANA SOFÍA",
+                            "photo": "img/TURIZO_ALTAMIRANDA_ELIANA_SOFIA.jpg",
+                            "position": 2
+                        },
+                        {
+                            "name": "ORDOÑEZ ORTIZ SARAY SOFÍA",
+                            "photo": "img/ORDOÑEZ_ORTIZ_SARAY_SOFIA.jpg",
+                            "position": 3
+                        }
+                    ]
+                },
+                {
+                    "group": "Noveno Dos",
+                    "students": [
+                        {
+                            "name": "CONTRERAS GUZMÁN DALIA MARÍA",
+                            "photo": "img/CONTRERAS_GUZMAN_DALIA_MARIA.jpg",
+                            "position": 1
+                        },
+                        {
+                            "name": "BARRIOS VIZCAÍNO MARÍA FERNANDA",
+                            "photo": "img/BARRIOS_VIZCAINO_MARIA_FERNANDA.jpg",
+                            "position": 2
+                        },
+                        {
+                            "name": "BLANQUICETH RAMOS ISHEL",
+                            "photo": "img/BLANQUICETH_RAMOS_ISHEL_KAROLINA.jpg",
+                            "position": 3
+                        }
+                    ]
+                },
+                {
+                    "group": "Noveno Tres",
+                    "students": [
+                        {
+                            "name": "TOVAR CABALLERO ELIANA",
+                            "photo": "img/TOVAR_CABALLERO_ELIANA.jpg",
+                            "position": 1
+                        },
+                        {
+                            "name": "FLÓREZ OLIVERO SENOVIA",
+                            "photo": "img/FLOREZ_OLIVERO_SENOVIA.jpg",
+                            "position": 2
+                        },
+                        {
+                            "name": "BERRÍO VERGARA MARÍA ANGÉLICA",
+                            "photo": "img/BERRIO_VERGARA_MARIA_ANGELICA.jpg",
+                            "position": 3
+                        }
+                    ]
+                },
+                {
+                    "group": "Noveno Cuatro",
+                    "students": [
+                        {
+                            "name": "ZABALETA OSPINO ALDAIR YESID",
+                            "photo": "img/ZABALETA_OSPINO_ALDAIR_YESID.jpg",
+                            "position": 1
+                        },
+                        {
+                            "name": "CRUZ SABALZA ANAIS PATRICIA",
+                            "photo": "img/CRUZ_SABALZA_ANAIS_PATRICIA.jpg",
+                            "position": 2
+                        },
+                        {
+                            "name": "OSPINO REYES MARÍA JOSÉ",
+                            "photo": "img/OSPINO_REYES_MARIA_JOSE.jpg",
+                            "position": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "grade": "10°",
+            "groups": [
+                {
+                    "group": "Décimo Uno",
+                    "students": [
+                        {
+                            "name": "CASTRILLO ORTEGA ANDREA VANESSA",
+                            "photo": "img/CASTRILLO_ORTEGA_ANDREA_VANESSA.jpg",
+                            "position": 1
+                        },
+                        {
+                            "name": "BOLAÑO CUDRIZ SABAS ALBERTO",
+                            "photo": "img/BOLAÑO_CUDRIZ_SABAS_ALBERTO.jpg",
+                            "position": 2
+                        },
+                        {
+                            "name": "MIRANDA AGUIRRE MELANY SOFÍA",
+                            "photo": "img/MIRANDA_AGUIRRE_MELANY_SOFIA.jpg",
+                            "position": 3
+                        }
+                    ]
+                },
+                {
+                    "group": "Décimo Dos",
+                    "students": [
+                        {
+                            "name": "ARRIETA YANCE LUIS DAVID",
+                            "photo": "img/nene2.png",
+                            "position": 1
+                        },
+                        {
+                            "name": "DÍAZ MUÑOZ CCARLI MICHELLE",
+                            "photo": "img/DIAZ_MUÑOZ_CCARLI_MICHELLE.jpg",
+                            "position": 2
+                        },
+                        {
+                            "name": "TATIS MANCO ANIED",
+                            "photo": "img/TATIS_MANCO_ANIED.jpg",
+                            "position": 3
+                        }
+                    ]
+                },
+                {
+                    "group": "Décimo Tres",
+                    "students": [
+                        {
+                            "name": "HERRERA ZAPATA KEINER",
+                            "photo": "img/HERRERA_ZAPATA_KEINER.jpg",
+                            "position": 1
+                        },
+                        {
+                            "name": "REYES TORRES MARÍA DE LOS ÁNGELES",
+                            "photo": "img/REYES_TORRES_MARIA_DE_LOS_ANGELES.jpg",
+                            "position": 2
+                        },
+                        {
+                            "name": "CABALLERO TORRES DARLEY DAYANA",
+                            "photo": "img/CABALLERO_TORRES_DARLEY_DAYANA.jpg",
+                            "position": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "grade": "11°",
+            "groups": [
+                {
+                    "group": "Undécimo Uno",
+                    "students": [
+                        {
+                            "name": "DE ANGEL REYES HILLARY VANESSA",
+                            "photo": "img/DE_ANGEL_REYES_HILLARY_VANESSA.jpg",
+                            "position": 1
+                        },
+                        {
+                            "name": "DIPPE LÓPEZ ALEXANDRA LUCÍA",
+                            "photo": "img/DIPPE_LOPEZ_ALEXANDRA_LUCIA.jpg",
+                            "position": 2
+                        },
+                        {
+                            "name": "LUGO MARTÍNEZ YEICARIS CAROLINA",
+                            "photo": "img/LUGO_MARTINEZ_YEICARIS_CAROLINA.jpg",
+                            "position": 3
+                        }
+                    ]
+                },
+                {
+                    "group": "Undécimo Dos",
+                    "students": [
+                        {
+                            "name": "LUNA RODRÍGUEZ ADALIS JOHANA",
+                            "photo": "img/LUNA_RODRIGUEZ_ADALIS_JOHANA.jpg",
+                            "position": 1
+                        },
+                        {
+                            "name": "MEDINA CANTILLO ELIETH",
+                            "photo": "img/MEDINA_CANTILLO_ELIETH.jpg",
+                            "position": 2
+                        },
+                        {
+                            "name": "BENÍTEZ MEJÍA SAMUEL DAVID",
+                            "photo": "img/BENITEZ_MEJIA_SAMUEL_DAVID.jpg",
+                            "position": 3
+                        }
+                    ]
+                },
+                {
+                    "group": "Undécimo Tres",
+                    "students": [
+                        {
+                            "name": "CASTILLO ACUÑA NICOL DAYANA",
+                            "photo": "img/CASTILLO_ACUÑA_NICOL_DAYANA.jpg",
+                            "position": 1
+                        },
+                        {
+                            "name": "ARRIETA MONTH LUIS DANIEL",
+                            "photo": "img/ARRIETA_MONTH_LUIS_DANIEL.jpg",
+                            "position": 2
+                        },
+                        {
+                            "name": "MUÑOZ BLANCO DAYANA MICHEL",
+                            "photo": "img/MUÑOZ_BLANCO_DAYANA_MICHEL.jpg",
+                            "position": 3
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
